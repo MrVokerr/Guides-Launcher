@@ -1,0 +1,227 @@
+{
+  "configs": {
+    "World of Warcraft (retail)": {
+      "classes": {
+        "Death Knight": {
+          "Blood": [
+            "https://www.wowhead.com/guide/classes/death-knight/blood/bis-gear#overall-bis",
+            "https://murlok.io/death-knight/blood/m+#stats",
+            "https://www.archon.gg/wow/builds/blood/death-knight/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Frost": [
+            "https://www.wowhead.com/guide/classes/death-knight/frost/bis-gear#overall-bis",
+            "https://murlok.io/death-knight/frost/m+#stats",
+            "https://www.archon.gg/wow/builds/frost/death-knight/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Unholy": [
+            "https://www.wowhead.com/guide/classes/death-knight/unholy/bis-gear#overall-bis",
+            "https://murlok.io/death-knight/unholy/m+#stats",
+            "https://www.archon.gg/wow/builds/unholy/death-knight/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ]
+        },
+        "Demon Hunter": {
+          "Havoc": [
+            "https://www.wowhead.com/guide/classes/demon-hunter/havoc/bis-gear#overall-bis",
+            "https://murlok.io/demon-hunter/havoc/m+#stats",
+            "https://www.archon.gg/wow/builds/havoc/demon-hunter/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Vengeance": [
+            "https://www.wowhead.com/guide/classes/demon-hunter/vengeance/bis-gear#overall-bis",
+            "https://murlok.io/demon-hunter/vengeance/m+#stats",
+            "https://www.archon.gg/wow/builds/vengeance/demon-hunter/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ]
+        },
+        "Druid": {
+          "Balance": [
+            "https://www.wowhead.com/guide/classes/druid/balance/bis-gear#overall-bis",
+            "https://murlok.io/druid/balance/m+#stats",
+            "https://www.archon.gg/wow/builds/balance/druid/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Feral": [
+            "https://www.wowhead.com/guide/classes/druid/feral/bis-gear#overall-bis",
+            "https://murlok.io/druid/feral/m+#stats",
+            "https://www.archon.gg/wow/builds/feral/druid/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Guardian": [
+            "https://www.wowhead.com/guide/classes/druid/guardian/bis-gear#overall-bis",
+            "https://murlok.io/druid/guardian/m+#stats",
+            "https://www.archon.gg/wow/builds/guardian/druid/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Restoration": [
+            "https://www.wowhead.com/guide/classes/druid/restoration/bis-gear#overall-bis",
+            "https://murlok.io/druid/restoration/m+#stats",
+            "https://www.archon.gg/wow/builds/restoration/druid/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ]
+        },
+        "Hunter": {
+          "Beast Mastery": [
+            "https://www.wowhead.com/guide/classes/hunter/beast-mastery/bis-gear#overall-bis",
+            "https://murlok.io/hunter/beast-mastery/m+#stats",
+            "https://www.archon.gg/wow/builds/beast-mastery/hunter/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Marksmanship": [
+            "https://www.wowhead.com/guide/classes/hunter/marksmanship/bis-gear#overall-bis",
+            "https://murlok.io/hunter/marksmanship/m+#stats",
+            "https://www.archon.gg/wow/builds/marksmanship/hunter/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Survival": [
+            "https://www.wowhead.com/guide/classes/hunter/survival/bis-gear#overall-bis",
+            "https://murlok.io/hunter/survival/m+#stats",
+            "https://www.archon.gg/wow/builds/survival/hunter/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ]
+        },
+        "Mage": {
+          "Arcane": [
+            "https://www.wowhead.com/guide/classes/mage/arcane/bis-gear#overall-bis",
+            "https://murlok.io/mage/arcane/m+#stats",
+            "https://www.archon.gg/wow/builds/arcane/mage/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Fire": [
+            "https://www.wowhead.com/guide/classes/mage/fire/bis-gear#overall-bis",
+            "https://murlok.io/mage/fire/m+#stats",
+            "https://www.archon.gg/wow/builds/fire/mage/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Frost": [
+            "https://www.wowhead.com/guide/classes/mage/frost/bis-gear#overall-bis",
+            "https://murlok.io/mage/frost/m+#stats",
+            "https://www.archon.gg/wow/builds/frost/mage/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ]
+        },
+        "Monk": {
+          "Brewmaster": [
+            "https://www.wowhead.com/guide/classes/monk/brewmaster/bis-gear#overall-bis",
+            "https://murlok.io/monk/brewmaster/m+#stats",
+            "https://www.archon.gg/wow/builds/brewmaster/monk/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Mistweaver": [
+            "https://www.wowhead.com/guide/classes/monk/mistweaver/bis-gear#overall-bis",
+            "https://murlok.io/monk/mistweaver/m+#stats",
+            "https://www.archon.gg/wow/builds/mistweaver/monk/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Windwalker": [
+            "https://www.wowhead.com/guide/classes/monk/windwalker/bis-gear#overall-bis",
+            "https://murlok.io/monk/windwalker/m+#stats",
+            "https://www.archon.gg/wow/builds/windwalker/monk/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ]
+        },
+        "Paladin": {
+          "Holy": [
+            "https://www.wowhead.com/guide/classes/paladin/holy/bis-gear#overall-bis",
+            "https://murlok.io/paladin/holy/m+#stats",
+            "https://www.archon.gg/wow/builds/holy/paladin/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Protection": [
+            "https://www.wowhead.com/guide/classes/paladin/protection/bis-gear#overall-bis",
+            "https://murlok.io/paladin/protection/m+#stats",
+            "https://www.archon.gg/wow/builds/protection/paladin/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Retribution": [
+            "https://www.wowhead.com/guide/classes/paladin/retribution/bis-gear#overall-bis",
+            "https://murlok.io/paladin/retribution/m+#stats",
+            "https://www.archon.gg/wow/builds/retribution/paladin/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ]
+        },
+        "Priest": {
+          "Discipline": [
+            "https://www.wowhead.com/guide/classes/priest/discipline/bis-gear#overall-bis",
+            "https://murlok.io/priest/discipline/m+#stats",
+            "https://www.archon.gg/wow/builds/discipline/priest/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Holy": [
+            "https://www.wowhead.com/guide/classes/priest/holy/bis-gear#overall-bis",
+            "https://murlok.io/priest/holy/m+#stats",
+            "https://www.archon.gg/wow/builds/holy/priest/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Shadow": [
+            "https://www.wowhead.com/guide/classes/priest/shadow/bis-gear#overall-bis",
+            "https://murlok.io/priest/shadow/m+#stats",
+            "https://www.archon.gg/wow/builds/shadow/priest/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ]
+        },
+        "Rogue": {
+          "Assassination": [
+			"https://www.wowhead.com/guide/classes/rogue/assassination/bis-gear#overall-bis",
+			"https://murlok.io/rogue/assassination/m+#stats",
+			"https://www.archon.gg/wow/builds/assassination/rogue/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents",
+			"https://docs.google.com/spreadsheets/d/e/2PACX-1vTYgz1ZCEqoM-KDFQwvyWDSyDNTf8J5s1GD1lnhIwEdfmTZ31K0dnoRkHtgsq6ysEyt9qAke_e9uu01/pubhtml"
+		],
+          "Outlaw": [
+			"https://www.wowhead.com/guide/classes/rogue/outlaw/bis-gear#overall-bis",
+			"https://murlok.io/rogue/outlaw/m+#stats",
+			"https://www.archon.gg/wow/builds/outlaw/rogue/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents",
+			"https://docs.google.com/spreadsheets/d/e/2PACX-1vTYgz1ZCEqoM-KDFQwvyWDSyDNTf8J5s1GD1lnhIwEdfmTZ31K0dnoRkHtgsq6ysEyt9qAke_e9uu01/pubhtml"
+		],
+          "Subtlety": [
+			"https://www.wowhead.com/guide/classes/rogue/subtlety/bis-gear#overall-bis",
+			"https://murlok.io/rogue/subtlety/m+#stats",
+			"https://www.archon.gg/wow/builds/subtlety/rogue/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents",
+			"https://docs.google.com/spreadsheets/d/e/2PACX-1vTYgz1ZCEqoM-KDFQwvyWDSyDNTf8J5s1GD1lnhIwEdfmTZ31K0dnoRkHtgsq6ysEyt9qAke_e9uu01/pubhtml"
+		]
+        },
+        "Shaman": {
+          "Elemental": [
+            "https://www.wowhead.com/guide/classes/shaman/elemental/bis-gear#overall-bis",
+            "https://murlok.io/shaman/elemental/m+#stats",
+            "https://www.archon.gg/wow/builds/elemental/shaman/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Enhancement": [
+            "https://www.wowhead.com/guide/classes/shaman/enhancement/bis-gear#overall-bis",
+            "https://murlok.io/shaman/enhancement/m+#stats",
+            "https://www.archon.gg/wow/builds/enhancement/shaman/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Restoration": [
+            "https://www.wowhead.com/guide/classes/shaman/restoration/bis-gear#overall-bis",
+            "https://murlok.io/shaman/restoration/m+#stats",
+            "https://www.archon.gg/wow/builds/restoration/shaman/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ]
+        },
+        "Warlock": {
+          "Affliction": [
+            "https://www.wowhead.com/guide/classes/warlock/affliction/bis-gear#overall-bis",
+            "https://murlok.io/warlock/affliction/m+#stats",
+            "https://www.archon.gg/wow/builds/affliction/warlock/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Demonology": [
+            "https://www.wowhead.com/guide/classes/warlock/demonology/bis-gear#overall-bis",
+            "https://murlok.io/warlock/demonology/m+#stats",
+            "https://www.archon.gg/wow/builds/demonology/warlock/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Destruction": [
+            "https://www.wowhead.com/guide/classes/warlock/destruction/bis-gear#overall-bis",
+            "https://murlok.io/warlock/destruction/m+#stats",
+            "https://www.archon.gg/wow/builds/destruction/warlock/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ]
+        },
+        "Warrior": {
+          "Arms": [
+            "https://www.wowhead.com/guide/classes/warrior/arms/bis-gear#overall-bis",
+            "https://murlok.io/warrior/arms/m+#stats",
+            "https://www.archon.gg/wow/builds/arms/warrior/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Fury": [
+            "https://www.wowhead.com/guide/classes/warrior/fury/bis-gear#overall-bis",
+            "https://murlok.io/warrior/fury/m+#stats",
+            "https://www.archon.gg/wow/builds/fury/warrior/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Protection": [
+            "https://www.wowhead.com/guide/classes/warrior/protection/bis-gear#overall-bis",
+            "https://murlok.io/warrior/protection/m+#stats",
+            "https://www.archon.gg/wow/builds/protection/warrior/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ]
+        },
+        "Evoker": {
+          "Devastation": [
+            "https://www.wowhead.com/guide/classes/evoker/devastation/bis-gear#overall-bis",
+            "https://murlok.io/evoker/devastation/m+#stats",
+            "https://www.archon.gg/wow/builds/devastation/evoker/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ],
+          "Preservation": [
+            "https://www.wowhead.com/guide/classes/evoker/preservation/bis-gear#overall-bis",
+            "https://murlok.io/evoker/preservation/m+#stats",
+            "https://www.archon.gg/wow/builds/preservation/evoker/mythic-plus/talents/10/all-dungeons/this-week#hero-talents#hero-talents"
+          ]
+        }
+      }
+    }
+  }
+}
