@@ -1,6 +1,9 @@
-# Guides Launcher
+# 🎯 Guides Launcher
 
-A tiny, standalone GUI app for Windows that helps you quickly open your favorite World of Warcraft class/spec guide pages in your browser.
+> ✅ **Just download `Guides.exe` and you're good to go.**  
+> 🛠️ Want to add your own classes, specs, or guide links? See the **[Customizing It Yourself](#customizing-it-yourself)** section below.
+
+A tiny, standalone GUI app for Windows that helps you instantly open the most up-to-date World of Warcraft guide pages for your chosen class and spec.
 
 ---
 
@@ -17,7 +20,7 @@ A tiny, standalone GUI app for Windows that helps you quickly open your favorite
 
 ---
 
-## Getting Started
+## Customizing It Yourself
 
 ### Prerequisites (for building from source)
 
